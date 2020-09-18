@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Abfragesprache_2020_09_14">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WINDOWS10-LH2\SQL2019DEVELOPER:DOM-PPA01\lh2">
+          <Created>2020-09-14T09:49:16.4685512+02:00</Created>
+          <Type>SQL</Type>
+          <Server>WINDOWS10-LH2\SQL2019DEVELOPER</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="001_Basics_und_Tipps.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>001_Basics_und_Tipps.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0015_HAVING.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0015_HAVING.sql</FullPath>
+        </FileNode>
+        <FileNode Name="002_Simple_Select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>002_Simple_Select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="003_Tabellenabfragen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>003_Tabellenabfragen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="004_Serverfunktionen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>004_Serverfunktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="005_WHERE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>005_WHERE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="006_Wildcards.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>006_Wildcards.sql</FullPath>
+        </FileNode>
+        <FileNode Name="007_JOINS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>007_JOINS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="008_DISTINCT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>008_DISTINCT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="009_TOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>009_TOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="010_Aggregatsfunktionen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>010_Aggregatsfunktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="011_Datumsfunktionen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>011_Datumsfunktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="012_CAST_CONVERT_FORMAT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>012_CAST_CONVERT_FORMAT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="013_temporäre_Tabellen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>013_temporäre_Tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="014_SET_Operatoren.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>014_SET_Operatoren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="015_VIEW.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>015_VIEW.sql</FullPath>
+        </FileNode>
+        <FileNode Name="016_VIEW_WITH_CHECK_OPTION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>016_VIEW_WITH_CHECK_OPTION.sql</FullPath>
+        </FileNode>
+        <FileNode Name="017_Variablen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>017_Variablen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="018_Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>018_Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="019_CASE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>019_CASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="020_Subselect.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>020_Subselect.sql</FullPath>
+        </FileNode>
+        <FileNode Name="021_Datenbankerstellung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>021_Datenbankerstellung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="022_Sequence.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>022_Sequence.sql</FullPath>
+        </FileNode>
+        <FileNode Name="023_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>023_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="024_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>024_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="NULL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>NULL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WH_und_Uebungen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WH_und_Uebungen.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
